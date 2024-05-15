@@ -13,6 +13,7 @@ export default function Home() {
           <h1>Hi there, I made a website for CS3</h1>
           <p>Just your average developer, nothing too fancy...</p>
         </div>
+        <img className={styles.me} src="./me.jpg"></img>
       </section>
     </main>
   );
