@@ -38,3 +38,14 @@
 .description {
   margin-right: 5rem;
 }
+
+.footer {
+  padding: 2rem;
+  background-color: rgb(54, 54, 54);
+  text-align: center;
+  width: 100%;
+}
+
+.footer p {
+  color: white;
+}

@@ -15,6 +15,9 @@ export default function Home() {
         </div>
         <img className={styles.me} src="./me.jpg"></img>
       </section>
+      <footer className={styles.footer}>
+        <p>&copy; William Wani 2024</p>
+      </footer>
     </main>
   );
 }
