@@ -14,6 +14,9 @@ export default function Home() {
           <p>Just your average developer, nothing too fancy...</p>
         </div>
       </section>
+      <footer className={styles.footer}>
+        <p>&copy; William Wani 2024</p>
+      </footer>
     </main>
   );
 }
